@@ -1,0 +1,7 @@
+E:\proj\AddressBookProject\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+E:\proj\AddressBookProject\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+E:\proj\AddressBookProject\DataAccessLayer\bin\Debug\BusinessEntityLayer.dll
+E:\proj\AddressBookProject\DataAccessLayer\bin\Debug\BusinessEntityLayer.pdb
+E:\proj\AddressBookProject\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+E:\proj\AddressBookProject\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+E:\proj\AddressBookProject\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

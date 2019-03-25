@@ -1,0 +1,1 @@
+E:\proj\AddressBookProject\WebClient\obj\Debug\WebClient.csprojResolveAssemblyReference.cache

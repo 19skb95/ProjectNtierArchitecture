@@ -1,0 +1,9 @@
+E:\proj\AddressBookProject\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+E:\proj\AddressBookProject\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+E:\proj\AddressBookProject\BusinessLogicLayer\bin\Debug\BusinessEntityLayer.dll
+E:\proj\AddressBookProject\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+E:\proj\AddressBookProject\BusinessLogicLayer\bin\Debug\BusinessEntityLayer.pdb
+E:\proj\AddressBookProject\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+E:\proj\AddressBookProject\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojResolveAssemblyReference.cache
+E:\proj\AddressBookProject\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+E:\proj\AddressBookProject\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb

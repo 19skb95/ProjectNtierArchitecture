@@ -1,0 +1,4 @@
+E:\proj\AddressBookProject\BusinessEntityLayer\bin\Debug\BusinessEntityLayer.dll
+E:\proj\AddressBookProject\BusinessEntityLayer\bin\Debug\BusinessEntityLayer.pdb
+E:\proj\AddressBookProject\BusinessEntityLayer\obj\Debug\BusinessEntityLayer.dll
+E:\proj\AddressBookProject\BusinessEntityLayer\obj\Debug\BusinessEntityLayer.pdb
